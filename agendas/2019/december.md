@@ -1,17 +1,32 @@
 # Agenda Dec OWASP Portland Leadership Committee
 
+## Welcome 
+
+### Committee Organization Overview - David Quisenberry
+
 ## Committee Updates
 
-### Membership and Community Outreach
+### Membership and Community Outreach - John Whiteman
 
-### Chapter Meetings
+### Chapter Meetings - Kendra Ash
 
-### Study Night
+### Study Night - Allison Naaktgeboren
 
-### Training Day
+### Training Day - Katie Feucht
 
-### Mentorship
+### Mentorship - David Quisenberry
+
+## Governance Updates
+
+### State of the Budget - Benny Zhao
 
 ## Chapter Business
 
-### Chapter Meeting Themes for First Six Months
+### Determine Chapter Meeting Themes for First Six Months 
+
+- Web App Pentesting / CTF
+- Cryptography
+- ????
+
+### Open Chapter Business Discussion
+
