@@ -19,7 +19,7 @@
 - Upcoming study nights
 - Where could use help
 
-### Training Day - Katie Feucht
+### Training Day - Ian Melvin (Katie is out of town)
 
 - Training Day Updates
 - Where could use help
